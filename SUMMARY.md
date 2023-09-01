@@ -27,10 +27,10 @@
 
 * [Page 1](group-1/page-1.md)
 
-## Group 2
-
-* [Page 1](group-2/page-1.md)
-
 ## Group 3
 
 * [Page 2](group-3/page-2.md)
+
+***
+
+* [Page 3](page-3.md)
